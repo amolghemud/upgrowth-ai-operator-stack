@@ -1,1 +1,14 @@
-
+{
+  "name": "upGrowth AI Operator Stack",
+  "description": "Operator-grade AI plugins and playbooks used by UpGrowth for research, strategy, and execution.",
+  "version": "0.1.0",
+  "maintainer": "upGrowth",
+  "plugins": [
+    {
+      "id": "research-mapper",
+      "name": "Research Mapper",
+      "description": "Structured, source-backed market and industry research.",
+      "path": "plugins/research-mapper.md"
+    }
+  ]
+}
