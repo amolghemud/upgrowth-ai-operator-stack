@@ -25,7 +25,15 @@ This repository documents the AI operator systems, plugins, and playbooks we use
 - /playbooks – real workflows we run
 - /principles.md – how we think about leverage
 
-## How to use this
-Start with the principles.
-Then explore plugins.
-Then apply a playbook to a real problem.
+## Using these plugins in Claude
+
+These plugins are specifications, not executable code.
+
+To use them:
+1. Open Claude → Co-work
+2. Create a custom skill, command, or agent
+3. Paste the plugin specification
+4. Adapt inputs to your workflow
+
+This repository defines the thinking layer.
+Claude executes it.
