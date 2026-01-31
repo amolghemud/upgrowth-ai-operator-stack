@@ -34,4 +34,12 @@ The output feeds directly into synthesis and decision plugins.
 - Missing contrarian or non-obvious signals
 - Treating summaries as conclusions
 
-Human judgment is mandatory after output.
+## Claude Co-work implementation
+
+Recommended setup:
+- Create a custom skill named "Research Mapper"
+- Use this spec as the system instruction
+- Require source citation in every response
+- Force output in structured sections
+
+This plugin is designed to be human-governed.
