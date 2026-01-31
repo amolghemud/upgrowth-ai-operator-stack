@@ -20,7 +20,7 @@ Manual market research scattered across tabs, PDFs, blog posts, and opinions, le
 - Clear signal vs noise separation
 - Open questions and unknowns
 
-## How we use this at UpGrowth
+## How we use this at upGrowth
 We run this before:
 - Market entry decisions
 - GTM strategy creation
