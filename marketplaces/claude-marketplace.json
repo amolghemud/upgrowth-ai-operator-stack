@@ -1,7 +1,7 @@
 {
   "name": "upGrowth AI Operator Stack",
   "description": "Operator-grade AI plugins and playbooks used by UpGrowth for research, strategy, and execution.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "maintainer": "upGrowth",
   "plugins": [
     {
@@ -9,6 +9,42 @@
       "name": "Research Mapper",
       "description": "Structured, source-backed market and industry research.",
       "path": "plugins/research-mapper.md"
+    },
+    {
+      "id": "content-brief-generator",
+      "name": "Content Brief Generator",
+      "description": "Strategic content briefs with search intent, competitor gaps, and structured outlines.",
+      "path": "plugins/content-brief-generator.md"
+    },
+    {
+      "id": "competitor-teardown",
+      "name": "Competitor Teardown",
+      "description": "Systematic competitive analysis with positioning, messaging, and strategic recommendations.",
+      "path": "plugins/competitor-teardown.md"
+    },
+    {
+      "id": "seo-audit-mapper",
+      "name": "SEO Audit Mapper",
+      "description": "Actionable SEO diagnostics covering technical health, content gaps, and prioritized fixes.",
+      "path": "plugins/seo-audit-mapper.md"
+    },
+    {
+      "id": "funnel-diagnostics",
+      "name": "Funnel Diagnostics",
+      "description": "Conversion funnel analysis to identify leaks, size revenue impact, and prioritize fixes.",
+      "path": "plugins/funnel-diagnostics.md"
+    },
+    {
+      "id": "campaign-planner",
+      "name": "Campaign Planner",
+      "description": "Integrated multi-channel campaign planning with budget allocation and measurement frameworks.",
+      "path": "plugins/campaign-planner.md"
+    },
+    {
+      "id": "brand-voice-calibrator",
+      "name": "Brand Voice Calibrator",
+      "description": "Brand voice analysis and guidelines for consistent cross-channel communication.",
+      "path": "plugins/brand-voice-calibrator.md"
     }
   ]
 }
